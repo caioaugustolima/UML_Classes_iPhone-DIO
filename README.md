@@ -9,8 +9,14 @@ Neste projeto, aplicamos conceitos de análise de negócios, requisitos, program
 - **Navegador:** Representa a funcionalidade de um navegador de internet.
 
 ## Tecnologias Utilizadas
-
+![terraform](https://img.shields.io/badge/-UML-white?style=for-the-badge&logo=UML&color=FABD14&logoColor=white)
 - **UML (Unified Modeling Language):** Utilizamos a UML como ferramenta de modelagem para criar o diagrama de classes.
+
+## Preview
+
+
+![Orientação a Objetos e UML Diagramação de Classes do iPhone](https://github.com/caioaugustolima/UML_Classes_iPhone-DIO/assets/50187646/f0fc6119-abcc-4171-a47b-dc79b00b0b57)
+
 
 ## Linguagem de Programação
 
