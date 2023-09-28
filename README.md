@@ -15,7 +15,8 @@ Neste projeto, aplicamos conceitos de análise de negócios, requisitos, program
 ## Preview
 
 
-![Orientação a Objetos e UML Diagramação de Classes do iPhone](https://github.com/caioaugustolima/UML_Classes_iPhone-DIO/assets/50187646/f0fc6119-abcc-4171-a47b-dc79b00b0b57)
+![Orientação a Objetos e UML Diagramação de Classes do iPhone](https://github.com/caioaugustolima/UML_Classes_iPhone-DIO/assets/50187646/48486ec4-7b80-4cc5-837c-3e2be50b3e3e)
+
 
 
 ## Linguagem de Programação
